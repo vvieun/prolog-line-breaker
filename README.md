@@ -161,5 +161,3 @@ For everyday work people still pick Python (43 against 3), because of habit and 
 - Prolog fits rule-based tasks like line breaking. The rules become plain facts, and the search is already built in.
 - Python is more familiar, so programmers find it nicer to read, and it stays the practical choice for real work.
 - Most of Python's readability lead is familiarity. People who do not know the language find Prolog just as understandable, and they pick it to explain such a program.
-- "Some tasks are still worth writing in Prolog" is not nostalgia. For readable, explainable, rule-driven code it is a real and sensible choice.
-- Names and form matter as much as the language. That is why `prolog_ru.pl` uses short, clear names (`взять_первые_слова_для_строки` became `набрать`, `МаксимальнаяДлина` became `Ширина`), so Prolog's closeness to ordinary language is not buried under long identifiers.
